@@ -2,7 +2,7 @@
 #include <iostream>
 #include <main.hxx>
 
-int
+inline int
 randint(int min, int max)
 {
     random_device dev;

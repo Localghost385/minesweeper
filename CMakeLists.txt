@@ -1,6 +1,6 @@
 #----------[ VARIABLES ]----------#
 set(PROJECT_NAME MineSweeper) 
-set(PROJECT_VERSION 0.0.0)
+set(PROJECT_VERSION 0.0.2)
 set(CMAKE_MIN_VERSION 3.5)
 #---------------------------------#
 

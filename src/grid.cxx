@@ -17,10 +17,5 @@ grid(int y, int x)
 {
     vector<vector<WINDOW*>> Grid;
 
-    for (int i{0}; i<y; i++) {
-        Grid.push_back(vector<WINDOW*> x)
-    }
-
-
-    //WINDOW* Template{ newwin(, Width, Rows, Cols) }
+    // WINDOW* Template{ newwin(, Width, Rows, Cols) }
 }
