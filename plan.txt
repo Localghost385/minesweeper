@@ -1,0 +1,9 @@
+grid class
+
+3 fields
+    mine
+    display
+    flag
+
+if mine = flag fail
+
